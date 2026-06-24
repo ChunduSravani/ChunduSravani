@@ -4,7 +4,7 @@
 <h3 align="center">Aspiring Software Engineer | Java Developer | QA Automation Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Software+Engineer;Java+Developer;Automation+Testing+Enthusiast;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Software+Engineer;Java+Developer;Automation+Testing+Engineer;Problem+Solver" />
 </p>
 
 ---
@@ -25,30 +25,15 @@ Enthusiastic and self-motivated graduate looking for a Software Engineer role in
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- **Frontend:** HTML,CSS  
+- **Backend:** Java  
+- **Database:** MySQL  
+- **Testing Tools:** Selenium WebDriver, Postman, TestNG  
+- **Tools & Platforms:** GitHub, Maven  
+- **Testing Concepts:** Manual Testing, Automation Testing, SDLC, STLC, Regression Testing, Defect Life Cycle  
 
-### Backend
-
-<p align="left">
-<a href="https://www.java.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>JAVA
-</a>
-
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Testing Tools
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-red?style=for-the-badge)
-
-### Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge)
 
 ---
 
