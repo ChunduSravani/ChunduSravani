@@ -42,7 +42,7 @@ Enthusiastic and self-motivated graduate looking for a Software Engineer role in
     
 ### Testing Concepts
   **Automation Testing:**
-  * Selenium WebDriver, WebDriver Architecture, Webdriver Methods, WebElement methods,Synchronization, iframes, Popups ,JavaScriptExceutor
+  * Selenium WebDriver, WebDriver Architecture, WebDriver Methods, WebElement methods, Synchronization, iframes, Popups ,JavaScriptExceutor
     
   **Manual Testing:**
   * SDLC, Types Of Testing, Defect Life Cycle, Defect tracking Process, Test Case, STLC, Test Plan, Smoke testing, Regression Testing.
