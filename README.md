@@ -33,7 +33,8 @@ Enthusiastic and self-motivated graduate looking for a Software Engineer role in
 ### Backend
 * Core Java
 * Object-Oriented Programming (OOPs)
-* Collection framework: List Interface,Set Interface,Queue Interface
+* Collection framework: ArrayList, LinkedList,Queue, HashSet, LinkedHashSet, TreeSet, Stack
+* Strong Programming Knowledge in Strings and Arrays
 * Basic Spring Framework
     
 ### Database
