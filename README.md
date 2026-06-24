@@ -7,7 +7,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Software+Engineer;Java+Developer;Automation+Testing+Engineer;Problem+Solver" />
 </p>
 
----
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=gayathri893&label=Profile%20Views&color=0e75b6&style=flat" alt="gayathri893" />
+</p>
+
 
 ## 👩‍💻 About Me
 
