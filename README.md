@@ -26,14 +26,32 @@ Enthusiastic and self-motivated graduate looking for a Software Engineer role in
 ---
 
 ## 🛠️ Technical Skills
+  ### Frontend
+  * HTML
+  * CSS
 
-- **Frontend:** HTML,CSS  
-- **Backend:** Java  
-- **Database:** MySQL  
-- **Testing Tools:** Selenium WebDriver, Postman, TestNG  
-- **Tools & Platforms:** GitHub, Maven  
-- **Testing Concepts:** Manual Testing, Automation Testing, SDLC, STLC, Regression Testing, Defect Life Cycle  
-
+### Backend
+* Core Java
+* Object-Oriented Programming (OOPs)
+* Collection framework: List Interface,Set Interface,Queue Interface
+* Basic Spring Framework
+    
+### Database:
+  * MySQL
+    
+### Testing Concepts
+  **Automation Testing:**
+  * Selenium WebDriver, WebDriver Architecture, Webdriver Methods, WebElement methods,Synchronization, iframes, Popups ,JavaScriptExceutor
+    
+  **Manual Testing:**
+  * SDLC, Types Of Testing, Defect Life Cycle, Defect tracking Process, Test Case, STLC, Test Plan, Smoke testing, Regression Testing.
+    
+### Tools & Platforms
+   * GitHub
+   * Maven
+   * Postman
+   * TestNG  
+  
 
 ---
 
