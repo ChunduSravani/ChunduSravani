@@ -21,7 +21,7 @@ Enthusiastic and self-motivated graduate looking for a Software Engineer role in
 ---
 
 ## 🌍 Location
-📍 Bangalore, India
+📍 Bangalore, Karnataka ,India
 
 ---
 
@@ -50,7 +50,8 @@ Enthusiastic and self-motivated graduate looking for a Software Engineer role in
    * GitHub
    * Maven
    * Postman
-   * TestNG  
+   * TestNG
+   * VS Code 
   
 
 ---
