@@ -36,7 +36,7 @@ Enthusiastic and self-motivated graduate looking for a Software Engineer role in
 * Collection framework: List Interface,Set Interface,Queue Interface
 * Basic Spring Framework
     
-### Database:
+### Database
   * MySQL
     
 ### Testing Concepts
